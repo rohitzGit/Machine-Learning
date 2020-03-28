@@ -2,8 +2,9 @@
 Preprocessing, Analytics and Machine Learning using KNN, Kernel SVM and Random Forest Classification
 
 **Python**
-- Accuracy matrix 
-- ROC curve
+- Outlier Detection
 - PCA
 - Cross Validation
+- Accuracy matrix 
 - Grid Search Optimization
+- ROC curve
