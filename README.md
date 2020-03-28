@@ -1,5 +1,7 @@
-# Machine-Learning
-Preprocessing, Analytics and Machine Learning using KNN, Kernel SVM and Random Forest Classification
+## Machine-Learning
+- Preprocessing
+- Data Wrangling
+- Machine Learning using KNN, Kernel SVM and Random Forest Classification
 
 **Python**
 - Outlier Detection
